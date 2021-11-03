@@ -2,7 +2,7 @@
 
 # Welcome to **Yuchiao**'s site!
 
-!(pexels-oliver-sj%C3%B6str%C3%B6m-931018.jpg)
+!(pexels-ocean-931018.jpg)
 
 <!--
 **yuchiaochao/yuchiaochao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
